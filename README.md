@@ -2,10 +2,10 @@
 Hello ! This is my Profile
 
 <h1 align="center">Hi 👋, I'm vanshika pachauri</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
+<h3 align="center">A passionate Data Analyst from India</h3>
 <img align = "right" alt ="coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 🌱 I’m currently learning **machine learning**
+- 🌱 I’m currently learning **Microsoft Power BI Data Analyst Professional certificate** from Coursera
 
 - 📫 How to reach me **pachaurivanshika@gmail.com**
 
