@@ -1,13 +1,12 @@
 # vanshika
 Hello ! This is my Profile
 
-
 <h1 align="center">Hi 👋, I'm Vanshika pachauri</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vanshikapachauri67&label=Profile%20views&color=0e75b6&style=flat" alt="vanshikapachauri67" /> </p>
+<img align= "right" alt ="coading width =400 src="https://cdn4.vectorstock.com/i/1000x1000/08/68/business-analyst-a-man-working-with-data-vector-40330868.jpg">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vanshikapachauri67" alt="vanshikapachauri67" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vanshikapachauri67&label=Profile%20views&color=0e75b6&style=flat" alt="vanshikapachauri67" /> </p>
 
 - 🌱 I’m currently learning **Microsoft Power BI Data Analyst Professional certificate from Coursera**
 
@@ -34,3 +33,8 @@ Hello ! This is my Profile
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vanshikapachauri67&show_icons=true&locale=en" alt="vanshikapachauri67" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vanshikapachauri67&" alt="vanshikapachauri67" /></p>
+
+
+
+
+
