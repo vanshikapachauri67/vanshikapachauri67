@@ -4,8 +4,7 @@ Hello ! This is my Profile
 <h1 align="center">Hi 👋, I'm Vanshika pachauri</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
-<img align= "right" alt ="coading width =400 src="https://cdn4.vectorstock.com/i/1000x1000/08/68/business-analyst-a-man-working-with-data-vector-40330868.jpg">
-
+<img align="right" alt ="coading" width =400 src="https://assets-global.website-files.com/5c19100c2b50073e6ee69da1/60d35967a853a1b14851703b_All%20the%20data%20(1).gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanshikapachauri67&label=Profile%20views&color=0e75b6&style=flat" alt="vanshikapachauri67" /> </p>
 
 - 🌱 I’m currently learning **Microsoft Power BI Data Analyst Professional certificate from Coursera**
